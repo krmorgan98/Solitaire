@@ -1,5 +1,4 @@
 package Solitaire;
-//package assignment1;
 
 /*
  * File: PlayingCard.java
